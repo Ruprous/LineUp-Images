@@ -1,11 +1,12 @@
 
 # 概要
+<img src="https://github.com/Ruprous/LineUp-Images/blob/main/lineupimage.png" alt="サンプル画像" width="300">LineUp-Images  
 このツールは、指定したディレクトリ内の画像を横幅3000px固定で並べるアプリケーションです。画像間にマージンを設定でき、列数や画像のリサイズ方法も柔軟に指定可能です。ディレクトリの選択と保存先の指定はGUI（エクスプローラー）で行うことができ、背景色は透明または黒を選択できます。出力はPNG形式で保存されます  
 <img src="https://pbs.twimg.com/media/Gc-F8KGaAAE4D2u?format=png&name=900x900" alt="サンプル画像" width="300">
 <img src="https://pbs.twimg.com/media/Gc-F9osaAAQR4o5?format=jpg&name=4096x4096" alt="サンプル画像" width="300">  
 これが→こう!!
 
-![ソフトのアイコン](https://github.com/Ruprous/LineUp-Images/blob/main/lineupimage.png)
+
 
 ---
 
