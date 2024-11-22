@@ -19,12 +19,12 @@ pip install pillow
 ## 使い方
 
 1. **スクリプトを保存**
-   - このスクリプトを `arrange_images.py` という名前で保存します。
+   - このスクリプトを `LineUp-Images.py` という名前で保存します。
 
 2. **実行**
    - ターミナルまたはコマンドプロンプトで以下を実行してください:
    ```bash
-   python arrange_images.py
+   python LineUp-Images.py
    ```
 
 3. **入力**
@@ -78,10 +78,6 @@ images/
 └── image4.bmp
 ```
 
-### コマンド例
-```bash
-python arrange_images.py
-```
 
 ### 操作例
 1. エクスプローラーが表示され、`images/` ディレクトリを選択。
