@@ -1,4 +1,4 @@
-#©2024 Ruprous
+#Copyright (c) 2024 Ruprous
 import os
 from tkinter import Tk
 from tkinter.filedialog import askdirectory, asksaveasfilename
