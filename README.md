@@ -3,7 +3,7 @@
   
 このツールは、指定したディレクトリ内の画像を横幅3000px固定で並べるアプリケーションです。画像間にマージンを設定でき、列数や画像のリサイズ方法も柔軟に指定可能です。ディレクトリの選択と保存先の指定はGUI（エクスプローラー）で行うことができ、背景色は透明または黒を選択できます。出力はPNG形式で保存されます  
   
-<img src="https://github.com/Ruprous/LineUp-Images/blob/main/lineupimage.png" alt="サンプル画像" width="50">  
+<img src="./src/lineupimage.png" alt="サンプル画像" width="50">  
   
 
 
